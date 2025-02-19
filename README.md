@@ -1,0 +1,1 @@
+Una semmplice rubrica viola.
