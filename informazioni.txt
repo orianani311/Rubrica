@@ -1,0 +1,10 @@
+Mario;Rossi;Via Roma 10;123456789;30
+Luigi;Bianchi;Corso Italia 5;987654321;35
+Giovanni;Verdi;Piazza Garibaldi 12;456789123;40
+Anna;Ferrari;Viale Mazzini 22;789123456;28
+Elena;Russo;Via Dante 7;159753486;32
+Marco;Gallo;Via Venezia 3;753951852;45
+Sofia;Conti;Corso Vittorio 21;951753852;27
+Giuseppe;Lombardi;Largo Manzoni 9;852369741;50
+Francesca;Moretti;Via Napoli 18;369852147;33
+Antonio;Barbieri;Piazza Duomo 1;147258369;38
