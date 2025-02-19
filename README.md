@@ -1,1 +1,1 @@
-Una semmplice rubrica viola.
+Una semplice rubrica viola!
